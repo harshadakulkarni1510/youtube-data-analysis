@@ -77,18 +77,47 @@ Swimlane diagram representing the business process flow -
 
 
 ## Tableau Analysis
-1. **Audience Analysis** 
-D- Geo spacial map of viewership with respect to artist (filter on artist)
-D- Treemap of region wise average number of views of artists
-P- analysis of views/engagement of audience in a particular video for the coming week
+The Insights are split into Audience and Demographic based on predictive and descriptive Analysis
+I. **Audience Analysis**  
+   ● Descriptive Analysis
+      - Geo spacial map of viewership with respect to artist (filter on artist)
+      - Treemap of region wise average number of views of artists  
+
+   ● Predictive Analysis
+      - Analysis of views/engagement of audience in a particular video for the coming week
 ![image](https://github.com/harshadakulkarni1510/youtube-data-analysis/assets/158090021/455d4022-e15a-4ad7-b774-73fb9a4d00b3)
 
+
+## Insights
+1. In the first visual, analyzed the audience of each artist in the database to see the popularity of any artist in each region. Used map object which describes the viewership of the artist in the regions. The viewership is color coded i.e. the darker the color of the region higher is the viewership of that artist in that region. 
+2. The same is shown below in a Heat map where we can see the region and the average views of the artist in that region. 
+3. The third chart is the predictive analysis of views or engagement of audience in a particular video. This shows the projected number of views of a particular 
+video in the coming week
+4. Audience analysis helps the artists deliver better content, plan their tours or concerts, gain better returns in terms of popularity and revenue and know exactly which part of the audience needs to be targeted
+
+
      
-3. **Demographic Analysis**
-D- most viewed/liked artists  (filter on views or likes)
-D-how much a category is popular in every age group
-P- how the revenue changes with respect to categories for a change in the price per view.
+II. **Demographic Analysis**  
+   ● Descriptive Analysis
+      - Most viewed/liked artists  (filter on views or likes)
+      - Popularity of a category in every age group
+  
+   ● Predictive Analysis
+      - Analysis of revenue change with respect to categories for a change in the price per view.
 ![image](https://github.com/harshadakulkarni1510/youtube-data-analysis/assets/158090021/d736789b-f955-4ff3-b121-8f8b1749bdcf)
+
+
+## Insights
+1. The first visual shows the most liked and viewed videos. It shows the 
+top 10 videos viewed by the audience all around the globe.
+2. The second visual shows the popular categories among viewer age groups. This shows how many viewers of a 
+certain age group are watching videos of the particular category. This gives brand managers an idea about which videos to put their ads on so as to target a particular age group.
+3. A similar visualization at the bottom right shows how the viewership varies with each age group for a particular category.
+4. And lastly, we build a predictive 
+visualization to see how the revenue changes with respect to categories for a change in the 
+price per view. This dashboard will help the brands to place advertisements on videos 
+strategically by gaining demographic analysis of user base and their preferences in terms of 
+languages, categories, culture, etc. to target a specific part of the audience accordingly.
 
 
 
