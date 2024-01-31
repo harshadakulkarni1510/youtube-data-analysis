@@ -110,14 +110,9 @@ II. **Demographic Analysis**
 ## Insights
 1. The first visual shows the most liked and viewed videos. It shows the 
 top 10 videos viewed by the audience all around the globe.
-2. The second visual shows the popular categories among viewer age groups. This shows how many viewers of a 
-certain age group are watching videos of the particular category. This gives brand managers an idea about which videos to put their ads on so as to target a particular age group.
+2. The second visual shows the popular categories among viewer age groups. This shows how many viewers of a certain age group are watching videos of the particular category. This gives brand managers an idea about which videos to put their ads on so as to target a particular age group.
 3. A similar visualization at the bottom right shows how the viewership varies with each age group for a particular category.
-4. And lastly, we build a predictive 
-visualization to see how the revenue changes with respect to categories for a change in the 
-price per view. This dashboard will help the brands to place advertisements on videos 
-strategically by gaining demographic analysis of user base and their preferences in terms of 
-languages, categories, culture, etc. to target a specific part of the audience accordingly.
+4. And lastly, the predictive analysis visualization shows how revenue changes with respect to categories for a change in the price per view. This dashboard will help brands to place advertisements on videos strategically by gaining demographic analysis of user base and their preferences in terms of languages, categories, culture, etc. to target a specific part of the audience accordingly.
 
 
 
